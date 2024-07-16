@@ -1,5 +1,5 @@
 
-###Question 3
+###Question3
 
 """ Objective: The aim of this assignment is to get familiarized with basic arithmetic operations and understand how they can be applied in everyday situations.
 

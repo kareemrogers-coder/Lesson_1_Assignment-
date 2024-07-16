@@ -1,5 +1,5 @@
 
-##Question 2
+###Question 2
 
 """ Objective: The aim of this assignment is to practice identifying and using Python's basic data types, as well as the type() function for checking a variable's data type.
 
