@@ -12,6 +12,7 @@ print("Wear sunglasses!")
 else:
 print("Take an umbrella!") """
 
+
 weather = "sunny"
 
 if weather == "sunny":

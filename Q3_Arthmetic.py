@@ -16,6 +16,14 @@ bread = 2.75
 peanut_butter = 4.50
 jelly = 3.23
 
+doc= '''
+Payment Receipt:
+bread = 2.75
+peanut_butter = 4.50
+jelly = 3.23
+'''
+print(doc)
+
 gorcery_total = bread + peanut_butter + jelly
 
 print("Your Grandtotal is $" + str(gorcery_total))
